@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "626516940394",
+    "firebase_url": "https://lezzafirebase.firebaseio.com",
+    "project_id": "lezzafirebase",
+    "storage_bucket": "lezzafirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626516940394:android:13ea95ac58290f39",
+        "android_client_info": {
+          "package_name": "com.example.jit.coklezza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626516940394-pve355f5slpf8ap69hf7pmge0a7ou1a3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_FWK7ELyRVqt-yc4-CsSsUZ9EN1dtt50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626516940394-pve355f5slpf8ap69hf7pmge0a7ou1a3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626516940394:android:885a0a3039c8b680",
+        "android_client_info": {
+          "package_name": "com.example.jit.lezzaapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626516940394-pve355f5slpf8ap69hf7pmge0a7ou1a3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_FWK7ELyRVqt-yc4-CsSsUZ9EN1dtt50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626516940394-pve355f5slpf8ap69hf7pmge0a7ou1a3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626516940394:android:8779dbb2bc3fa6ef",
+        "android_client_info": {
+          "package_name": "com.example.jit.lezzaproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626516940394-pve355f5slpf8ap69hf7pmge0a7ou1a3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_FWK7ELyRVqt-yc4-CsSsUZ9EN1dtt50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626516940394-pve355f5slpf8ap69hf7pmge0a7ou1a3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
